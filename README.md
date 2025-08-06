@@ -1,9 +1,9 @@
 ## Olá! Me chamo Vinicius 👋🏼
 
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** (em andamento);  
-💻 Estudando **Java**,**HTML**, **CSS**, **JavaScript** e **Git**;  
-🎯 Focado em evoluir como dev backend, mas também estudo o front!  
-☕ Sobrevivendo a base de café, VSCode e sonhos de deploy
+💻 Estudando **BackEnd**,**FrontEnd**, **SoftwareArchitect**, **Cyber SecurityExpert** e **GitandGitHub**;  
+🎯 Focado em evoluir como dev backend; 
+☕ Sobrevivendo a base de café;
 
 ---
 
