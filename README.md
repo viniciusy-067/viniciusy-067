@@ -1,4 +1,4 @@
-## Olá! Me chamo Vinicius 👋🏼
+## Vinicius 
 
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** (em andamento);  
 💻 Estudando **BackEnd**,**FrontEnd**, **SoftwareArchitect**, **Cyber SecurityExpert** e **GitandGitHub**;  
