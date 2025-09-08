@@ -13,8 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![CyberSecurityExpert](https://img.shields.io/badge/Cyber%2520Security-Expert-0A192F)
-![SoftwareArchitect](https://img.shields.io/badge/Software%2520Architect-Expert-4B0082)
+![Cyber Security Expert](https://img.shields.io/badge/Cyber%20Security-Expert-0A192F?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Software Architect](https://img.shields.io/badge/Software%20Architect-Expert-4B0082?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 
 
