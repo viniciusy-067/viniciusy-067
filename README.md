@@ -9,8 +9,6 @@
 
 ## 📚 Estudando...:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Cyber Security Expert](https://img.shields.io/badge/Cyber%20Security-Expert-0A192F?style=for-the-badge&logo=hackthebox&logoColor=white)
