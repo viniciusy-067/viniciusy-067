@@ -17,23 +17,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusy-067&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusy-067&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viniciusy-067/viniciusy-067/main/github-contribution-grid-snake.svg" width="80%" alt="Snake Game"/>
-</div>
-
----
-
 ### 🚀 Roadmap
 
 - [ ] **eJPT** Certification (Cybersecurity)
