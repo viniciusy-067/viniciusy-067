@@ -2,7 +2,6 @@
 
 🎓 **Análise e Desenvolvimento de Sistemas**  
 💻 Foco em **Software Architecture** e **Offensive Security**  
-☕ *Turning coffee into secure code*
 
 ---
 
